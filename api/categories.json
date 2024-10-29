@@ -2,32 +2,32 @@
     "categories": [
         {
             "id": 1,
-            "name": "lightning",
+            "name": "SPA",
             "image": "https://george-fx.github.io/beshop_api/assets/categories/01.jpg"
         },
         {
             "id": 2,
-            "name": "bedding",
+            "name": "Nails",
             "image": "https://george-fx.github.io/beshop_api/assets/categories/02.jpg"
         },
         {
             "id": 3,
-            "name": "chairs & tables",
+            "name": "Perfum",
             "image": "https://george-fx.github.io/beshop_api/assets/categories/03.jpg"
         },
         {
             "id": 4,
-            "name": "office",
+            "name": "Skin Care",
             "image": "https://george-fx.github.io/beshop_api/assets/categories/04.jpg"
         },
         {
             "id": 5,
-            "name": "decor",
+            "name": "Hairs",
             "image": "https://george-fx.github.io/beshop_api/assets/categories/05.jpg"
         },
         {
             "id": 6,
-            "name": "garden",
+            "name": "Faces",
             "image": "https://george-fx.github.io/beshop_api/assets/categories/06.jpg"
         }
     ]
