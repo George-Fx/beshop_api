@@ -130,7 +130,7 @@
             ],
             "rating": 5,
             "quantity": null,
-            "old_price": "38.00",
+            "oldPrice": "38.00",
             "is_featured": true,
             "is_bestseller": true
         }
