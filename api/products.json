@@ -17,12 +17,37 @@
                 "https://george-fx.github.io/beshop_api/assets/products/01.jpg",
                 "https://george-fx.github.io/beshop_api/assets/products/01.jpg"
             ],
-            "colors": [
-                "Seashell",
-                "Misty Rose",
-                "Flesh",
-                "Melon",
-                "Brink Pink"
+             "colors": [
+                {
+                    "id": 1,
+                    "name": "White",
+                    "code": "#FFFFFF"
+                },
+                {
+                    "id": 2,
+                    "name": "Middle Yellow",
+                    "code": "#FFE923"
+                },
+                {
+                    "id": 3,
+                    "name": "Dark Orange",
+                    "code": "#FD8C06"
+                },
+                {
+                    "id": 4,
+                    "name": "Picton Blue",
+                    "code": "#2DB3FF"
+                },
+                {
+                    "id": 5,
+                    "name": "Red Orange",
+                    "code": "#FF452F"
+                },
+                {
+                    "id": 6,
+                    "name": "Malachite",
+                    "code": "#2DD45C"
+                }
             ],
             "rating": 5,
             "quantity": null,
@@ -47,12 +72,37 @@
                 "https://george-fx.github.io/beshop_api/assets/products/02.jpg",
                 "https://george-fx.github.io/beshop_api/assets/products/02.jpg"
             ],
-            "colors": [
-                "Seashell",
-                "Misty Rose",
-                "Flesh",
-                "Melon",
-                "Brink Pink"
+             "colors": [
+                {
+                    "id": 1,
+                    "name": "White",
+                    "code": "#FFFFFF"
+                },
+                {
+                    "id": 2,
+                    "name": "Middle Yellow",
+                    "code": "#FFE923"
+                },
+                {
+                    "id": 3,
+                    "name": "Dark Orange",
+                    "code": "#FD8C06"
+                },
+                {
+                    "id": 4,
+                    "name": "Picton Blue",
+                    "code": "#2DB3FF"
+                },
+                {
+                    "id": 5,
+                    "name": "Red Orange",
+                    "code": "#FF452F"
+                },
+                {
+                    "id": 6,
+                    "name": "Malachite",
+                    "code": "#2DD45C"
+                }
             ],
             "rating": 5,
             "quantity": null,
@@ -79,12 +129,37 @@
                 "https://george-fx.github.io/beshop_api/assets/products/03.jpg",
                 "https://george-fx.github.io/beshop_api/assets/products/03.jpg"
             ],
-            "colors": [
-                "Seashell",
-                "Misty Rose",
-                "Flesh",
-                "Melon",
-                "Brink Pink"
+             "colors": [
+                {
+                    "id": 1,
+                    "name": "White",
+                    "code": "#FFFFFF"
+                },
+                {
+                    "id": 2,
+                    "name": "Middle Yellow",
+                    "code": "#FFE923"
+                },
+                {
+                    "id": 3,
+                    "name": "Dark Orange",
+                    "code": "#FD8C06"
+                },
+                {
+                    "id": 4,
+                    "name": "Picton Blue",
+                    "code": "#2DB3FF"
+                },
+                {
+                    "id": 5,
+                    "name": "Red Orange",
+                    "code": "#FF452F"
+                },
+                {
+                    "id": 6,
+                    "name": "Malachite",
+                    "code": "#2DD45C"
+                }
             ],
             "rating": 5,
             "quantity": null,
@@ -111,12 +186,37 @@
                 "https://george-fx.github.io/beshop_api/assets/products/04.jpg",
                 "https://george-fx.github.io/beshop_api/assets/products/04.jpg"
             ],
-            "colors": [
-                "Seashell",
-                "Misty Rose",
-                "Flesh",
-                "Melon",
-                "Brink Pink"
+             "colors": [
+                {
+                    "id": 1,
+                    "name": "White",
+                    "code": "#FFFFFF"
+                },
+                {
+                    "id": 2,
+                    "name": "Middle Yellow",
+                    "code": "#FFE923"
+                },
+                {
+                    "id": 3,
+                    "name": "Dark Orange",
+                    "code": "#FD8C06"
+                },
+                {
+                    "id": 4,
+                    "name": "Picton Blue",
+                    "code": "#2DB3FF"
+                },
+                {
+                    "id": 5,
+                    "name": "Red Orange",
+                    "code": "#FF452F"
+                },
+                {
+                    "id": 6,
+                    "name": "Malachite",
+                    "code": "#2DD45C"
+                }
             ],
             "rating": 5,
             "quantity": null,
@@ -141,12 +241,37 @@
                 "https://george-fx.github.io/beshop_api/assets/products/05.jpg",
                 "https://george-fx.github.io/beshop_api/assets/products/05.jpg"
             ],
-            "colors": [
-                "Seashell",
-                "Misty Rose",
-                "Flesh",
-                "Melon",
-                "Brink Pink"
+             "colors": [
+                {
+                    "id": 1,
+                    "name": "White",
+                    "code": "#FFFFFF"
+                },
+                {
+                    "id": 2,
+                    "name": "Middle Yellow",
+                    "code": "#FFE923"
+                },
+                {
+                    "id": 3,
+                    "name": "Dark Orange",
+                    "code": "#FD8C06"
+                },
+                {
+                    "id": 4,
+                    "name": "Picton Blue",
+                    "code": "#2DB3FF"
+                },
+                {
+                    "id": 5,
+                    "name": "Red Orange",
+                    "code": "#FF452F"
+                },
+                {
+                    "id": 6,
+                    "name": "Malachite",
+                    "code": "#2DD45C"
+                }
             ],
             "rating": 5,
             "quantity": null,
