@@ -3,7 +3,12 @@
         {
             "id": 1,
             "image": "https://george-fx.github.io/beshop_api/assets/banners/01.jpg",
-            "promotion": "Unlock the Power of Play"
+            "promotion": ""
+        },
+        {
+            "id": 2,
+            "image": "https://george-fx.github.io/beshop_api/assets/banners/02.jpg",
+            "promotion": "Get Your 50% Off!"
         }
     ]
 }
