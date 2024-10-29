@@ -1,0 +1,144 @@
+{
+    "products": [
+        {
+          "id": 1,
+          "created_at": "2023-11-17T17:00:07.000000Z",
+          "updated_at": "2023-11-17T17:00:07.000000Z",
+          "tags": [
+            "Skin"
+          ],
+          "name": "Detox body Cream",
+          "image": "https://beshop.rn-admin.site/storage/O4o4NUnIhuYRufEGmeNMpISV9SX7xL1VssUH4czI.jpg",
+          "categories": [
+            "Skin Care"
+          ],
+          "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
+          "price": "42.89",
+          "images": "[\"https:\\/\\/beshop.rn-admin.site\\/storage\\/t8lihuAGZgVDvwZGNCA2IeKDfjWdeWJg8I5UEzeC.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/rEZj8aA49kPrZnRbxokBc9mHDAMgWcvhUArIjcWF.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/WRJwZvKWBzap4VfaOkAeSs33RfjClWHklfQhJaV5.jpg\"]",
+          "colors": [
+            "Seashell",
+            "Misty Rose",
+            "Flesh",
+            "Melon",
+            "Brink Pink"
+          ],
+          "rating": 5,
+          "quantity": null,
+          "old_price": null,
+          "is_featured": true,
+          "is_bestseller": true
+        },
+        {
+          "id": 2,
+          "created_at": "2023-11-17T17:00:59.000000Z",
+          "updated_at": "2023-11-17T17:00:59.000000Z",
+          "tags": [
+            "Make Up"
+          ],
+          "name": "Foundation Beshop",
+          "image": "https://beshop.rn-admin.site/storage/1yjJZsMy0ifOW9dbUbxqY4OHa5MfbR9e7HS3Ex3t.jpg",
+          "categories": [
+            "Make Up"
+          ],
+          "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
+          "price": "30.00",
+          "images": "[\"https:\\/\\/beshop.rn-admin.site\\/storage\\/cdfxnUsry6nzCGddtGdwYbPpBvfsJrgoLHkZ1UYi.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/Wd7jhD098VtNqLsmA9Hlbx4y6XJuXPMoq55gASGE.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/9Qzcf6u69F2ykLDes1dL2XlaAGeZAltjEuEGAUpn.jpg\"]",
+          "colors": [
+            "Seashell",
+            "Misty Rose",
+            "Flesh",
+            "Melon",
+            "Brink Pink"
+          ],
+          "rating": 5,
+          "quantity": null,
+          "old_price": "38.00",
+          "is_featured": true,
+          "is_bestseller": true
+        },
+        {
+          "id": 3,
+          "created_at": "2023-11-17T17:01:51.000000Z",
+          "updated_at": "2023-11-17T17:01:51.000000Z",
+          "tags": [
+            "Hair"
+          ],
+          "name": "Toning hair mask",
+          "image": "https://beshop.rn-admin.site/storage/mvfXXAKtiw7YQ2t5c2BPSm0nYriNruEG3ZGR8ksw.jpg",
+          "categories": [
+            "Hair Care"
+          ],
+          "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
+          "price": "54.96",
+          "images": "[\"https:\\/\\/beshop.rn-admin.site\\/storage\\/Qf7O4fcujIrOoU6nNKMfgA1Fcu9S75r1WkLN7KOJ.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/UzmfwvfKQobkxrQjtBSwfVzAUEJI61UCOWQ2fLUS.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/WI2Bri7l0UqbXlOG16UqQ007FNaCH5CC8YlbEbXG.jpg\"]",
+          "colors": [
+            "Seashell",
+            "Misty Rose",
+            "Flesh",
+            "Melon",
+            "Brink Pink"
+          ],
+          "rating": 5,
+          "quantity": null,
+          "old_price": null,
+          "is_featured": true,
+          "is_bestseller": true
+        },
+        {
+          "id": 4,
+          "created_at": "2023-11-17T17:03:14.000000Z",
+          "updated_at": "2023-11-17T17:03:14.000000Z",
+          "tags": [
+            "Skin"
+          ],
+          "name": "Detox night body Cream",
+          "image": "https://beshop.rn-admin.site/storage/YSKszy7osPGAqvyaya1vNoSWq6PnYKjo78I1KARL.jpg",
+          "categories": [
+            "Skin Care"
+          ],
+          "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
+          "price": "31.78",
+          "images": "[\"https:\\/\\/beshop.rn-admin.site\\/storage\\/ZHPqbwNq91GapuVmBCGQzevXAMgXP68n2CvkWO06.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/GmaIwpuChL0syLYK5vixxuCh8S0lZntj5G6qy94c.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/vYp9mgyGvK2jixsqdNXAdibgJYCkRGKVfpovhaxE.jpg\"]",
+          "colors": [
+            "Seashell",
+            "Misty Rose",
+            "Flesh",
+            "Melon",
+            "Brink Pink"
+          ],
+          "rating": 5,
+          "quantity": null,
+          "old_price": null,
+          "is_featured": true,
+          "is_bestseller": true
+        },
+        {
+          "id": 5,
+          "created_at": "2023-11-17T17:04:21.000000Z",
+          "updated_at": "2023-11-17T17:04:21.000000Z",
+          "tags": [
+            "Make Up"
+          ],
+          "name": "Spray balm with oat",
+          "image": "https://beshop.rn-admin.site/storage/GRS7oT22taDZT3C1FPFuCuLWNzjbty4bHCDkdx16.jpg",
+          "categories": [
+            "Make Up"
+          ],
+          "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
+          "price": "31.78",
+          "images": "[\"https:\\/\\/beshop.rn-admin.site\\/storage\\/1meFrZFYpQZWkjhRhBAuANI0o62JGgP7wL5zreDz.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/FrIIWTbRjgTr5tXVifPdn1iq3Hl7sqZUMVyoJUoo.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/HgO1q2gqH672O1ZNwH5SVHuZ6JnuUbI6hdiXad0P.jpg\"]",
+          "colors": [
+            "Seashell",
+            "Misty Rose",
+            "Flesh",
+            "Melon",
+            "Brink Pink"
+          ],
+          "rating": 5,
+          "quantity": null,
+          "old_price": "38.00",
+          "is_featured": true,
+          "is_bestseller": true
+        }
+      ]
+}
