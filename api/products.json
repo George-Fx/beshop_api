@@ -12,7 +12,11 @@
             ],
             "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
             "price": "42.89",
-            "images": "[\"https:\\/\\/beshop.rn-admin.site\\/storage\\/t8lihuAGZgVDvwZGNCA2IeKDfjWdeWJg8I5UEzeC.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/rEZj8aA49kPrZnRbxokBc9mHDAMgWcvhUArIjcWF.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/WRJwZvKWBzap4VfaOkAeSs33RfjClWHklfQhJaV5.jpg\"]",
+            "images": [
+                "https://george-fx.github.io/beshop_api/assets/products/01.jpg",
+                "https://george-fx.github.io/beshop_api/assets/products/01.jpg",
+                "https://george-fx.github.io/beshop_api/assets/products/01.jpg"
+            ],
             "colors": [
                 "Seashell",
                 "Misty Rose",
@@ -38,7 +42,11 @@
             ],
             "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
             "price": "30.00",
-            "images": "[\"https:\\/\\/beshop.rn-admin.site\\/storage\\/cdfxnUsry6nzCGddtGdwYbPpBvfsJrgoLHkZ1UYi.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/Wd7jhD098VtNqLsmA9Hlbx4y6XJuXPMoq55gASGE.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/9Qzcf6u69F2ykLDes1dL2XlaAGeZAltjEuEGAUpn.jpg\"]",
+            "images": [
+                "https://george-fx.github.io/beshop_api/assets/products/02.jpg",
+                "https://george-fx.github.io/beshop_api/assets/products/02.jpg",
+                "https://george-fx.github.io/beshop_api/assets/products/02.jpg"
+            ],
             "colors": [
                 "Seashell",
                 "Misty Rose",
@@ -66,7 +74,11 @@
             ],
             "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
             "price": "54.96",
-            "images": "[\"https:\\/\\/beshop.rn-admin.site\\/storage\\/Qf7O4fcujIrOoU6nNKMfgA1Fcu9S75r1WkLN7KOJ.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/UzmfwvfKQobkxrQjtBSwfVzAUEJI61UCOWQ2fLUS.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/WI2Bri7l0UqbXlOG16UqQ007FNaCH5CC8YlbEbXG.jpg\"]",
+            "images": [
+                "https://george-fx.github.io/beshop_api/assets/products/03.jpg",
+                "https://george-fx.github.io/beshop_api/assets/products/03.jpg",
+                "https://george-fx.github.io/beshop_api/assets/products/03.jpg"
+            ],
             "colors": [
                 "Seashell",
                 "Misty Rose",
@@ -94,7 +106,11 @@
             ],
             "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
             "price": "31.78",
-            "images": "[\"https:\\/\\/beshop.rn-admin.site\\/storage\\/ZHPqbwNq91GapuVmBCGQzevXAMgXP68n2CvkWO06.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/GmaIwpuChL0syLYK5vixxuCh8S0lZntj5G6qy94c.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/vYp9mgyGvK2jixsqdNXAdibgJYCkRGKVfpovhaxE.jpg\"]",
+            "images": [
+                "https://george-fx.github.io/beshop_api/assets/products/04.jpg",
+                "https://george-fx.github.io/beshop_api/assets/products/04.jpg",
+                "https://george-fx.github.io/beshop_api/assets/products/04.jpg"
+            ],
             "colors": [
                 "Seashell",
                 "Misty Rose",
@@ -120,7 +136,11 @@
             ],
             "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
             "price": "31.78",
-            "images": "[\"https:\\/\\/beshop.rn-admin.site\\/storage\\/1meFrZFYpQZWkjhRhBAuANI0o62JGgP7wL5zreDz.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/FrIIWTbRjgTr5tXVifPdn1iq3Hl7sqZUMVyoJUoo.jpg\",\"https:\\/\\/beshop.rn-admin.site\\/storage\\/HgO1q2gqH672O1ZNwH5SVHuZ6JnuUbI6hdiXad0P.jpg\"]",
+            "images": [
+                "https://george-fx.github.io/beshop_api/assets/products/05.jpg",
+                "https://george-fx.github.io/beshop_api/assets/products/05.jpg",
+                "https://george-fx.github.io/beshop_api/assets/products/05.jpg"
+            ],
             "colors": [
                 "Seashell",
                 "Misty Rose",
