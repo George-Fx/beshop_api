@@ -75,17 +75,17 @@
             "colors": [
                 {
                     "id": 1,
-                    "name": "White",
+                    "name": "Seashell",
                     "code": "#FCEDEA"
                 },
                 {
                     "id": 2,
-                    "name": "Middle Yellow",
+                    "name": "Misty Rose 1",
                     "code": "#FEE1DB"
                 },
                 {
                     "id": 3,
-                    "name": "Dark Orange",
+                    "name": "Misty Rose 2",
                     "code": "#FFD9D1"
                 },
                 {
@@ -95,12 +95,12 @@
                 },
                 {
                     "id": 5,
-                    "name": "Red Orange",
+                    "name": "Flesh",
                     "code": "#FDB7A8"
                 },
                 {
                     "id": 6,
-                    "name": "Malachite",
+                    "name": "Brink Pink",
                     "code": "#FFA08A"
                 }
             ],
@@ -132,17 +132,17 @@
             "colors": [
                 {
                     "id": 1,
-                    "name": "White",
+                    "name": "Seashell",
                     "code": "#FCEDEA"
                 },
                 {
                     "id": 2,
-                    "name": "Middle Yellow",
+                    "name": "Misty Rose 1",
                     "code": "#FEE1DB"
                 },
                 {
                     "id": 3,
-                    "name": "Dark Orange",
+                    "name": "Misty Rose 2",
                     "code": "#FFD9D1"
                 },
                 {
@@ -152,12 +152,12 @@
                 },
                 {
                     "id": 5,
-                    "name": "Red Orange",
+                    "name": "Flesh",
                     "code": "#FDB7A8"
                 },
                 {
                     "id": 6,
-                    "name": "Malachite",
+                    "name": "Brink Pink",
                     "code": "#FFA08A"
                 }
             ],
@@ -189,17 +189,17 @@
             "colors": [
                 {
                     "id": 1,
-                    "name": "White",
+                    "name": "Seashell",
                     "code": "#FCEDEA"
                 },
                 {
                     "id": 2,
-                    "name": "Middle Yellow",
+                    "name": "Misty Rose 1",
                     "code": "#FEE1DB"
                 },
                 {
                     "id": 3,
-                    "name": "Dark Orange",
+                    "name": "Misty Rose 2",
                     "code": "#FFD9D1"
                 },
                 {
@@ -209,12 +209,12 @@
                 },
                 {
                     "id": 5,
-                    "name": "Red Orange",
+                    "name": "Flesh",
                     "code": "#FDB7A8"
                 },
                 {
                     "id": 6,
-                    "name": "Malachite",
+                    "name": "Brink Pink",
                     "code": "#FFA08A"
                 }
             ],
@@ -244,17 +244,17 @@
             "colors": [
                 {
                     "id": 1,
-                    "name": "White",
+                    "name": "Seashell",
                     "code": "#FCEDEA"
                 },
                 {
                     "id": 2,
-                    "name": "Middle Yellow",
+                    "name": "Misty Rose 1",
                     "code": "#FEE1DB"
                 },
                 {
                     "id": 3,
-                    "name": "Dark Orange",
+                    "name": "Misty Rose 2",
                     "code": "#FFD9D1"
                 },
                 {
@@ -264,12 +264,12 @@
                 },
                 {
                     "id": 5,
-                    "name": "Red Orange",
+                    "name": "Flesh",
                     "code": "#FDB7A8"
                 },
                 {
                     "id": 6,
-                    "name": "Malachite",
+                    "name": "Brink Pink",
                     "code": "#FFA08A"
                 }
             ],
