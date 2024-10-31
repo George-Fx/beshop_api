@@ -21,32 +21,32 @@
                 {
                     "id": 1,
                     "name": "White",
-                    "code": "#FFFFFF"
+                    "code": "#FCEDEA"
                 },
                 {
                     "id": 2,
                     "name": "Middle Yellow",
-                    "code": "#FFE923"
+                    "code": "#FEE1DB"
                 },
                 {
                     "id": 3,
                     "name": "Dark Orange",
-                    "code": "#FD8C06"
+                    "code": "#FFD9D1"
                 },
                 {
                     "id": 4,
                     "name": "Picton Blue",
-                    "code": "#2DB3FF"
+                    "code": "#FDC5B9"
                 },
                 {
                     "id": 5,
                     "name": "Red Orange",
-                    "code": "#FF452F"
+                    "code": "#FDB7A8"
                 },
                 {
                     "id": 6,
                     "name": "Malachite",
-                    "code": "#2DD45C"
+                    "code": "#FFA08A"
                 }
             ],
             "rating": 5,
