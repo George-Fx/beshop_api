@@ -51,9 +51,9 @@
             ],
             "rating": 5,
             "quantity": null,
-            "old_price": null,
-            "is_featured": true,
-            "is_bestseller": true
+            "oldPrice": null,
+            "isFeatured": true,
+            "isBestseller": true
         },
         {
             "id": 2,
@@ -106,9 +106,9 @@
             ],
             "rating": 5,
             "quantity": null,
-            "old_price": "38.00",
-            "is_featured": true,
-            "is_bestseller": true
+            "oldPrice": "38.00",
+            "isFeatured": true,
+            "isBestseller": true
         },
         {
             "id": 3,
@@ -163,9 +163,9 @@
             ],
             "rating": 5,
             "quantity": null,
-            "old_price": null,
-            "is_featured": true,
-            "is_bestseller": true
+            "oldPrice": null,
+            "isFeatured": true,
+            "isBestseller": true
         },
         {
             "id": 4,
@@ -220,9 +220,9 @@
             ],
             "rating": 5,
             "quantity": null,
-            "old_price": null,
-            "is_featured": true,
-            "is_bestseller": true
+            "oldPrice": null,
+            "isFeatured": true,
+            "isBestseller": true
         },
         {
             "id": 5,
@@ -276,8 +276,8 @@
             "rating": 5,
             "quantity": null,
             "oldPrice": "38.00",
-            "is_featured": true,
-            "is_bestseller": true
+            "isFeatured": true,
+            "isBestseller": true
         }
     ]
 }
