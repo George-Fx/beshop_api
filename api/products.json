@@ -3,7 +3,18 @@
         {
             "id": 1,
             "tags": [
-                "Skin"
+                "Nails",
+                "Face",
+                "Hair",
+                "Make up",
+                "Eye-brows",
+                "Skin",
+                "Lips",
+                "Lashes",
+                "Body",
+                "Mask",
+                "Oil",
+                "Scrab"
             ],
             "name": "Detox body Cream",
             "image": "https://george-fx.github.io/beshop_api/assets/products/01.jpg",
@@ -58,7 +69,18 @@
         {
             "id": 2,
             "tags": [
-                "Make Up"
+                "Nails",
+                "Face",
+                "Hair",
+                "Make up",
+                "Eye-brows",
+                "Skin",
+                "Lips",
+                "Lashes",
+                "Body",
+                "Mask",
+                "Oil",
+                "Scrab"
             ],
             "name": "Foundation Beshop",
             "image": "https://george-fx.github.io/beshop_api/assets/products/02.jpg",
@@ -115,7 +137,18 @@
             "created_at": "2023-11-17T17:01:51.000000Z",
             "updated_at": "2023-11-17T17:01:51.000000Z",
             "tags": [
-                "Hair"
+                "Nails",
+                "Face",
+                "Hair",
+                "Make up",
+                "Eye-brows",
+                "Skin",
+                "Lips",
+                "Lashes",
+                "Body",
+                "Mask",
+                "Oil",
+                "Scrab"
             ],
             "name": "Toning hair mask",
             "image": "https://george-fx.github.io/beshop_api/assets/products/03.jpg",
@@ -171,8 +204,19 @@
             "id": 4,
             "created_at": "2023-11-17T17:03:14.000000Z",
             "updated_at": "2023-11-17T17:03:14.000000Z",
-            "tags": [
-                "Skin"
+           "tags": [
+                "Nails",
+                "Face",
+                "Hair",
+                "Make up",
+                "Eye-brows",
+                "Skin",
+                "Lips",
+                "Lashes",
+                "Body",
+                "Mask",
+                "Oil",
+                "Scrab"
             ],
             "name": "Detox night body Cream",
             "image": "https://george-fx.github.io/beshop_api/assets/products/04.jpg",
@@ -226,8 +270,19 @@
         },
         {
             "id": 5,
-            "tags": [
-                "Make Up"
+           "tags": [
+                "Nails",
+                "Face",
+                "Hair",
+                "Make up",
+                "Eye-brows",
+                "Skin",
+                "Lips",
+                "Lashes",
+                "Body",
+                "Mask",
+                "Oil",
+                "Scrab"
             ],
             "name": "Spray balm with oat",
             "image": "https://george-fx.github.io/beshop_api/assets/products/05.jpg",
